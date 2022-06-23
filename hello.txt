@@ -1,5 +1,11 @@
 hello git!
+<<<<<<< HEAD
 hello git1
 hello 2222222djkldsflskdjfklsfjlsdkfjlkdsjsfsd;gj
 sgjsdgnsjknsgng2
-QWERTYUIOP
+
+hell0 git1
+;sl;dka;l;askd;as;
+
+
+ hot-fix
